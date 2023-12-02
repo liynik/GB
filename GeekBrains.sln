@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C sharp", "C sharp", "{D8929873-596B-432F-B7C5-6BDFE9CB2E14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "практика", "практика", "{660F09E0-BE63-49FF-8F3D-5DBAB821504E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ДЗ_к_семинарам", "ДЗ_к_семинарам", "{4C10E553-BDC6-4C1D-BDD2-D479E9306A35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Семинар_3_дз", "Семинар_3_дз", "{8923D751-300D-4B02-9418-EBD938700F7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{C7B60E88-901A-478B-978B-6332957DA2E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task_1", "C sharp\практика\ДЗ_к_семинарам\Семинар_3_дз\Tasks\task_1\task_1.csproj", "{7487CEA6-FCBA-4478-B0C1-8D68496C1574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7487CEA6-FCBA-4478-B0C1-8D68496C1574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7487CEA6-FCBA-4478-B0C1-8D68496C1574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7487CEA6-FCBA-4478-B0C1-8D68496C1574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7487CEA6-FCBA-4478-B0C1-8D68496C1574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{660F09E0-BE63-49FF-8F3D-5DBAB821504E} = {D8929873-596B-432F-B7C5-6BDFE9CB2E14}
+		{4C10E553-BDC6-4C1D-BDD2-D479E9306A35} = {660F09E0-BE63-49FF-8F3D-5DBAB821504E}
+		{8923D751-300D-4B02-9418-EBD938700F7D} = {4C10E553-BDC6-4C1D-BDD2-D479E9306A35}
+		{C7B60E88-901A-478B-978B-6332957DA2E1} = {8923D751-300D-4B02-9418-EBD938700F7D}
+		{7487CEA6-FCBA-4478-B0C1-8D68496C1574} = {C7B60E88-901A-478B-978B-6332957DA2E1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5102F5DB-615C-4E90-9E7F-E9BA9AA60E9D}
+	EndGlobalSection
+EndGlobal
