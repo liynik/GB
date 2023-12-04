@@ -1,0 +1,15 @@
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/z6/bin/Debug/net8.0/z6
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/z6/bin/Debug/net8.0/z6.deps.json
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/z6/bin/Debug/net8.0/z6.runtimeconfig.json
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/z6/bin/Debug/net8.0/z6.dll
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/z6/bin/Debug/net8.0/z6.pdb
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/z6/obj/Debug/net8.0/z6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/z6/obj/Debug/net8.0/z6.AssemblyInfoInputs.cache
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/z6/obj/Debug/net8.0/z6.AssemblyInfo.cs
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/z6/obj/Debug/net8.0/z6.csproj.CoreCompileInputs.cache
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/z6/obj/Debug/net8.0/z6.sourcelink.json
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/z6/obj/Debug/net8.0/z6.dll
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/z6/obj/Debug/net8.0/refint/z6.dll
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/z6/obj/Debug/net8.0/z6.pdb
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/z6/obj/Debug/net8.0/z6.genruntimeconfig.cache
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/z6/obj/Debug/net8.0/ref/z6.dll
