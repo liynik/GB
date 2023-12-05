@@ -1,0 +1,5 @@
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/SamPro/z3/obj/Debug/net8.0/z3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/SamPro/z3/obj/Debug/net8.0/z3.AssemblyInfoInputs.cache
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/SamPro/z3/obj/Debug/net8.0/z3.AssemblyInfo.cs
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/SamPro/z3/obj/Debug/net8.0/z3.csproj.CoreCompileInputs.cache
+/Users/liynik/Desktop/GeekBrains/C sharp/практика/Семинары/SamPro/z3/obj/Debug/net8.0/z3.sourcelink.json
