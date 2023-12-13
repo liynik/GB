@@ -2,22 +2,34 @@
 //Напишите программу, которая выведет все натуральные числа в промежутке от M до N.
 // Использовать рекурсию, не использовать циклы.
 
-// M=17
 
-void ShowRealNumbers(int currentNumber, int number)
-{   
-    if (currentNumber <= number)
+int InputNumber(string text)
+{
+    do
     {
-        Console.Write(currentNumber + " ");
-        ShowRealNumbers(currentNumber + 1, number);
+        Console.Write(text);
+        if 
+        (int.TryParse(Console.ReadLine(), out int index) && index >= 0)
+            return index;
+
+        else
+            Console.WriteLine("Некорректный ввод. Введите положительное целое число.");
+    } while (true);
+}
+
+void ShowRealNumbers(int volumeM, int volumeN)
+
+{
+    if (volumeM <= volumeN)
+    {
+        Console.Write(volumeM == volumeN ? volumeM : volumeM + ", ");
+        ShowRealNumbers(volumeM + 1, volumeN);
     }
 }
 
-Console.Write("Введите число N: ");
-if (int.TryParse(Console.ReadLine(), out int number) && number > 0)
-{
-    Console.Write($"N={number} => ");
-    ShowRealNumbers(17, number);
-    Console.WriteLine();
-}
-else { Console.WriteLine("Некорректный ввод. Введите положительное целое число."); }
+int numberM = InputNumber("Введите число M: ");
+int numberN = InputNumber("Введите число N: ");
+
+Console.Write($"M = {numberM}; N = {numberN} => \"");
+ShowRealNumbers(numberM, numberN);
+Console.WriteLine("\"");
